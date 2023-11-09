@@ -16,6 +16,7 @@
 		EB2B1AD02AFD95C6009D5DD5 /* HackwichTenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB2B1ACF2AFD95C6009D5DD5 /* HackwichTenTests.swift */; };
 		EB2B1ADA2AFD95C6009D5DD5 /* HackwichTenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB2B1AD92AFD95C6009D5DD5 /* HackwichTenUITests.swift */; };
 		EB2B1ADC2AFD95C6009D5DD5 /* HackwichTenUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB2B1ADB2AFD95C6009D5DD5 /* HackwichTenUITestsLaunchTests.swift */; };
+		EB2B1AE92AFD9AD9009D5DD5 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB2B1AE82AFD9AD9009D5DD5 /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EB2B1AD52AFD95C6009D5DD5 /* HackwichTenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HackwichTenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB2B1AD92AFD95C6009D5DD5 /* HackwichTenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichTenUITests.swift; sourceTree = "<group>"; };
 		EB2B1ADB2AFD95C6009D5DD5 /* HackwichTenUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HackwichTenUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EB2B1AE82AFD9AD9009D5DD5 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				EB2B1ABA2AFD95C5009D5DD5 /* SceneDelegate.swift */,
 				EB2B1ABC2AFD95C5009D5DD5 /* ViewController.swift */,
 				EB2B1ABE2AFD95C5009D5DD5 /* Main.storyboard */,
+				EB2B1AE82AFD9AD9009D5DD5 /* Restaurant.swift */,
 				EB2B1AC12AFD95C6009D5DD5 /* Assets.xcassets */,
 				EB2B1AC32AFD95C6009D5DD5 /* LaunchScreen.storyboard */,
 				EB2B1AC62AFD95C6009D5DD5 /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB2B1AE92AFD9AD9009D5DD5 /* Restaurant.swift in Sources */,
 				EB2B1ABD2AFD95C5009D5DD5 /* ViewController.swift in Sources */,
 				EB2B1AB92AFD95C5009D5DD5 /* AppDelegate.swift in Sources */,
 				EB2B1ABB2AFD95C5009D5DD5 /* SceneDelegate.swift in Sources */,
